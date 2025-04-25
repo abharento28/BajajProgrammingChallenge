@@ -59,7 +59,7 @@ Ensure you have the following installed on your system:
 
 4. Access the application at:
    ```bash
-   :http://localhost8080
+   http://localhost:8080/
 
 ### Usage
 API Endpoints:
