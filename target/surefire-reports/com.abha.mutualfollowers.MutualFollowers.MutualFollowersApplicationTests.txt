@@ -1,14 +1,4 @@
-// filepath: /Users/abhashukla28/Downloads/MutualFollowers/src/main/java/com/abha/mutualfollowers/MutualFollowers/DefaultController.java
-package com.abha.mutualfollowers.MutualFollowers;
-
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController
-public class DefaultController {
-
-    @GetMapping("/")
-    public String home() {
-        return "Welcome to the Mutual Followers Application!";
-    }
-}
+-------------------------------------------------------------------------------
+Test set: com.abha.mutualfollowers.MutualFollowers.MutualFollowersApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.451 s -- in com.abha.mutualfollowers.MutualFollowers.MutualFollowersApplicationTests
