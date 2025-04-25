@@ -58,7 +58,7 @@ Ensure you have the following installed on your system:
 4. Access the application at:
    :http://localhost8080
 
-Usage
+##Usage
 API Endpoints:
 The application exposes RESTful APIs for managing followers. Example endpoints:
 
