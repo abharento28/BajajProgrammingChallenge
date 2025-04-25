@@ -50,15 +50,18 @@ Ensure you have the following installed on your system:
 
 
 2. Build the project using Maven:
+   ```bash
    mvn clean install
 
 3. Run the application:
+   ```bash
    mvn spring-boot:run
 
 4. Access the application at:
+   ```bash
    :http://localhost8080
 
-##Usage
+### Usage
 API Endpoints:
 The application exposes RESTful APIs for managing followers. Example endpoints:
 
