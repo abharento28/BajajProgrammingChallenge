@@ -63,11 +63,15 @@ Ensure you have the following installed on your system:
 
 ### Usage
 API Endpoints:
-The application exposes RESTful APIs for managing followers. Example endpoints:
+The application exposes RESTful APIs for managing followers. 
 
+Example endpoints:
 GET /followers: Retrieve all followers.
+
 POST /followers: Add a new follower.
+
 GET /mutual-followers: Retrieve mutual followers between users.
+
 Database:
 By default, the application uses an in-memory H2 database. You can configure a different database in the application.properties file.
 
